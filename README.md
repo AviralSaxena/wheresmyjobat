@@ -1,3 +1,6 @@
+![Dashboard Demo](assets/dashboard.png)
+<p align="center"><i>Demo Dashboard</i></p>
+
 # WheresMyJobAt - Auto Job Application Tracker
 
 Automatically tracks job applications from Gmail using AI analysis.
